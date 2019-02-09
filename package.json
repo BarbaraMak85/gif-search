@@ -1,0 +1,23 @@
+{
+    "name": "gif-search",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BarbaraMak85/gif-search.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BarbaraMak85/gif-search/issues"
+    },
+    "homepage": "https://github.com/BarbaraMak85/gif-search#readme",
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    }
+}
